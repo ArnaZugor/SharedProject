@@ -1,10 +1,10 @@
 1
-2
+dva
 tri
 4
 pet
 6
 sedam
 8
-9
+devet
 10
